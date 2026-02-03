@@ -2,7 +2,7 @@
 Analyzed OLA ride booking data using SQL and Power BI to uncover insights on bookings, cancellations, revenue, and ride trends. Built an interactive dashboard with KPIs and filters to support data-driven decision-making and demonstrate practical data analytics and business intelligence skills
 
 ## dataset
-https://github.com/jtrgowda/SQL-POWER-BI-PROJECT-OF-OLA/blob/main/Bookings.csv
+- <a here="https://github.com/jtrgowda/SQL-POWER-BI-PROJECT-OF-OLA/blob/main/Bookings.csv"> data set</a>
 
 
 ## dashboard
