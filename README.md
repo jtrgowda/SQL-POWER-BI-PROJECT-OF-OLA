@@ -49,7 +49,9 @@ The project demonstrates the effective use of SQL for data analysis and Power BI
 
 
 ## dashboard
-<img width="963" height="660" alt="Screenshot 2026-02-03 190810" src="https://github.com/user-attachments/assets/d1e6c07d-3bf6-4063-acaa-f5bef0d7ecf1" />
+<img width="1229" height="664" alt="Screenshot 2026-02-03 195030" src="https://github.com/user-attachments/assets/7192844f-76f2-4ef8-b6c4-7da54e9e5ed2" />
+
+
 
 
  
